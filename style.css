@@ -1,0 +1,33 @@
+/* Add your styles here */
+
+body{
+  background-color:#222;
+  font-family:sans-serif;
+  font-size:16px;
+  line-height:1.5;
+  padding:20px;
+  color:white;
+}
+
+h1{
+  font-size:30px;
+  font-weight:bold;
+  margin-bottom:20px;
+  text-align:center;
+  color:white;
+  text-decoration:underline;
+}
+
+a{
+  color:darkcyan;
+  text-decoration:none;
+}
+
+a hover{
+  color:darkcyan;
+  text-decoration:none;
+}
+
+img{
+  border:5px solid darkcyan;
+}
